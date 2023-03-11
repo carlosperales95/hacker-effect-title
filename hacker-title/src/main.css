@@ -21,14 +21,14 @@ body {
   
   #blob {
     background-color: white;
-    height: 34vmax;
+    height: 30vmax;
     aspect-ratio: 1;
     position: absolute;
     left: 50%;
     top: 50%;
     translate: -50% -50%;
     border-radius: 50%;
-    background: linear-gradient(to right, aquamarine, mediumpurple);
+    background: linear-gradient(to right, rgb(182, 240, 107), rgb(211, 146, 49));
     animation: rotate 20s infinite;
     opacity: 0.8;
   }
