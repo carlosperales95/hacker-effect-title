@@ -21,8 +21,7 @@ Check [http://localhost:8080/](http://localhost:8080/)
 
 
 ### Preview
-![]()
-
+![](preview-concept.png)
 
 ### Is this component demo hosted?
 
