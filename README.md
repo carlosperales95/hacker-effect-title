@@ -8,7 +8,7 @@ I started this project to practice some `Vue.js`, since most of the things I've 
 ## How to run it?
 Go into the main directory of this project:
 ```
-cd light-hover/
+cd hacker-title/
 ```
 
 After that, serve the site with npm
