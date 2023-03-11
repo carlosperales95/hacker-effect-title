@@ -25,5 +25,5 @@ Check [http://localhost:8080/](http://localhost:8080/)
 
 ### Is this component demo hosted?
 
-I hosted a demo on Netlify, **[click here to see it]()**
+I hosted a demo on Netlify, **[click here to see it](https://hacker-effect-title.netlify.app/)**
 
